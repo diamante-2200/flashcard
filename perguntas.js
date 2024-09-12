@@ -19,5 +19,35 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz ornitorrinco em Inglês?',
-    'Oi em ingles é platypus'
+    'Ornitorrinco em ingles é platypus'
+)
+
+criaCartao(
+    'Língua Portuguesa',
+    'Qual livro iniciou o realismo brasileiro?',
+    'Memórias Póstumas de Brás Cubas'
+)
+
+criaCartao(
+    'Química',
+    'Quais as funções orgânicos que apresentam hidroxila?',
+    'O álcool, o enol, o fenol, e o ácido carboxílico'
+    )
+
+criaCartao(
+    'Física',
+    'Quais são os processos do Ciclo de Carnot, e o que ele representa?',
+    '1º Expansão isotérmica, 2º expansão adiabática, 3º compressão isotérmica, 4º compressão adiabática; ele representa o ciclo mais eficiente em máquinas térmicas'
+)
+
+criaCartao(
+    'Matemática',
+    'Como são chamados dois polígonos com lados e ângulos iguais?',
+    'Figuras congruentes'
+)
+
+criaCartao(
+    'Arte',
+    'O que é alienação no contexto do teatro épico de Brecht?',
+    'A técnica de manter a plateia ciente que é apenas uma peça, não a realidade, o tempo todo'
 )
